@@ -1,0 +1,86 @@
+*{
+	
+	background-color: #271e20;
+}
+
+.white{
+	position: absolute;
+	top: 50px;
+	left: 379px;
+	height: 392px;
+	width: 611px;
+	background-color: white;
+}
+.img1{
+	top: 203px;
+	left: 38px;
+	position: absolute;
+	width:  338px;
+	height: 214px;
+}
+.img2{
+	position: absolute;
+	top: 50px;
+	left: 50px;
+	width:  329px;
+	height:392px;
+}
+.lovi_mom{
+	position: absolute;
+	top: 85px;
+	left: 407px;
+	background-color: white;
+	width: 583px;
+	text-align: center;
+	font-size: 22px;
+}
+.one{
+	position: absolute;
+	top: 155px;
+	left: 444px;
+	width: 200px;
+	height: 70px;
+	background-color: white;
+}
+.two{
+	position: absolute;
+	top: 155px;
+	left: 710px;
+	width: 200px;
+	height: 70px;
+	background-color: white;
+}
+.one2{
+	font-weight: 600;
+	color: #999999;
+	height: 35px;
+}
+.one1{
+	font-size: 18px;
+	height: 25px;
+	font-weight: 600;
+	margin-top: 10px;
+}
+.one1, .one2, .psevdo{
+	width:200px;
+	
+	background-color: white;
+	text-align: center;
+}
+.psevdo{
+	height: 6px;
+	border-bottom: 1px solid #d5d5d5;
+	
+}
+.psevdo:after{
+	content: "";
+	position: absolute;
+	right: 50%;
+	width: 10px;
+	height: 10px;
+	margin-top: 1px;
+	background: #d5d5d5;
+	transform: rotate(45deg);
+	
+	
+}

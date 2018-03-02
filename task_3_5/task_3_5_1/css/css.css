@@ -1,0 +1,41 @@
+
+table{
+	background-color: #afcde7;
+	border-collapse: collapse;
+	font-size: 15px;
+	color: white;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	width: 576px;
+	height: 224px;
+
+}
+.q{
+	background-color: #d8e6f3;
+	font-weight: 300;
+	color: black;
+	height: 44px;
+}
+table, th, tr{
+	border: 1px solid white;
+	
+}
+.w{
+	font-weight: 600;
+}
+.w{
+	width: 173px;
+	height: 41px;
+}
+.r{
+	padding-left: 20px;
+	text-align: left;
+	font-weight: 400;
+
+}
+.t{
+	width: 98px;
+}
+.k{
+	padding-left: 20px;
+	text-align: left;
+}

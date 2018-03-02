@@ -1,0 +1,21 @@
+table, th, tr {
+   border: 1px solid black;
+   border-collapse: collapse;
+   background-color: #efffd2;
+   text-align: left;
+   padding-right: 20px;
+   font-weight: 300;
+   font-family: serif;
+}
+.q{
+	background-color: #80b327;
+	color: white;
+	font-weight: 800;
+	text-align: center;
+}
+.w{
+	padding-right: 50px;
+}
+
+th:nth-child(even) {background-color: #e4ffb7;}
+
